@@ -34,6 +34,11 @@
 	color: #ecf0f1;
 }
 
+.centerkonten {
+    padding-top: 50px; 
+    align-content: center;
+    text-align: center;
+}
 
 /*LOGIN*/
 .login {
@@ -148,10 +153,84 @@
 
 /*MENU*/
 .menu {
-	background-color: #ecf0f1;
+	background-size: cover;
+    background-color: #ecf0f1;
+    height: 160vh;
 }
 
 .menu img {
-	max-width: 450px
+	width: 300px
 }
+
+.menu a {
+    font-size: 18px;
+    width: 200px;
+    border-radius: 40px;
+    color: #ecf0f1;
+}
+
+
+/*MENU PELAYAN*/
+.meny_pelayan {
+    background-size: cover;
+    background-color: #ecf0f1;
+    height: auto;
+}
+.menu_pelayan h1 {
+    color: #3498db;
+    text-align: center;
+}
+
+.menu_pelayan h2 h3 {
+    color: #cccccc;
+}
+
+.menu_pelayan a {
+    font-size: 18px;
+    background-color: #3498db;
+    width: 200px;
+    border-radius: 40px;
+    color: #ecf0f1;
+}
+
+.menu_pelayan p {
+    color: #cccccc;
+}
+
+.menu_pelayan img {
+    width: 450px;
+}
+
+/*MENU_KASIR*/
+.meny_kasir {
+    background-size: cover;
+    background-color: #ecf0f1;
+    height: auto;
+}
+
+.menu_kasir h1 {
+    color: #3498db;
+    text-align: center;
+}
+
+.menu_kasir h2 {
+    color: #cccccc;
+}
+
+.menu_kasir a {
+    font-size: 18px;
+    background-color: #3498db;
+    width: 200px;
+    border-radius: 40px;
+    color: #ecf0f1;
+}
+
+.menu_kasir p {
+    color: #cccccc;
+}
+
+.menu_kasir img {
+    width: 450px;
+}
+
 /*AKHIR MENU*/
