@@ -233,4 +233,36 @@
     width: 450px;
 }
 
+/*MENU_PANTRY*/
+.meny_pantry {
+    background-size: cover;
+    background-color: #ecf0f1;
+    height: auto;
+}
+
+.menu_pantry h1 {
+    color: #3498db;
+    text-align: center;
+}
+
+.menu_pantry h2 {
+    color: #cccccc;
+}
+
+.menu_pantry a {
+    font-size: 18px;
+    background-color: #3498db;
+    width: 200px;
+    border-radius: 40px;
+    color: #ecf0f1;
+}
+
+.menu_pantry p {
+    color: #cccccc;
+}
+
+.menu_pantry img {
+    width: 450px;
+}
+
 /*AKHIR MENU*/
